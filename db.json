@@ -1,9 +1,9 @@
 {
  "result":{
     "a": "privacy...",
-    "cu": "EN",
+    "cu": "HK,CN",
     "u": "1",
     "g": "Info",
-    "r": "0"
+    "r": true
      }
 }
